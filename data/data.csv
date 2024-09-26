@@ -1,0 +1,3 @@
+*** Test Cases ***,${Job_title},${Job_description},${Job_file},${Job_note}
+Data Scientist record,Data Scientist_JPE,${EMPTY},${EXECDIR}${/}Jeux de donnees${/}data_scientist.jpg,Note 2
+Data engineer record,Data Engineer_JPE,Data Engineer Description,${EXECDIR}${/}Jeux de donnees${/}data_engineer.jpg,Note 1
